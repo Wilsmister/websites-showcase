@@ -9,7 +9,10 @@ Each project is organized in its own folder with source code, assets, and docume
 
   [Live Website](https://www.icellpharma.com/)  -  The ICELL Pharma website, ICellPharma.com, was built and managed using WordPress with a suite of supporting plugins. In addition to development, I also handled email integration and hosting management to ensure smooth operations.
 
-- [Business Landing Page](site-business/README.md)
+- [Lotrems - Contracting ](Lotrems)  - LOTREMS.com is a corporate and informational website built using Wix tools, with integrated hosting and email management. It serves as a professional online presence for the company, showcasing its services, products, and resources in a clean, user‑friendly format.
+
+ [Live Website](https://www.lotrems.com/)
+
 - [Personal Blog](site-blog/README.md)
 
 ## 🚀 Purpose
