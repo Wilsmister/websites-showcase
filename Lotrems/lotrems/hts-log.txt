@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 17 Nov 2025 11:22:37 at https://www.lotrems.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.lotrems.com/ -O1 "C:\My Web Sites\lotrens" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:22:53	Error: 	"Not Found" (404) at link https://www.lotrems.com/t (from https://www.lotrems.com/)
+11:22:53	Error: 	"Not Found" (404) at link https://www.lotrems.com/e (from https://www.lotrems.com/)
+11:23:01	Error: 	"Not Found" (404) at link https://www.lotrems.com/api/ (from https://www.lotrems.com/)
+11:23:01	Error: 	"Not Found" (404) at link https://www.lotrems.com/envelope/ (from https://www.lotrems.com/)
+11:23:01	Error: 	"Not Found" (404) at link https://www.lotrems.com/feed.xml (from https://www.lotrems.com/)
+11:23:01	Error: 	"Bad Request" (400) at link https://www.lotrems.com/decodeURIComponent(e (from https://www.lotrems.com/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 24 seconds : 50 links scanned, 43 files written (7064243 bytes overall) [2142391 bytes received at 89266 bytes/sec], 6664285 bytes transferred using HTTP compression in 31 files, ratio 25%, 1.5 requests per connection
+(6 errors, 0 warnings, 0 messages)
